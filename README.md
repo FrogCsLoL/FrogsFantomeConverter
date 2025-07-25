@@ -2,6 +2,8 @@
 
 **Simple drag-and-drop tool that converts League of Legends skin folders into .fantome files for cslol-manager.**
 
+![showcase](https://github.com/user-attachments/assets/372ab3a5-549f-47f1-afad-36e7ee6e0255)
+
 ## What it does
 Converts all subfolders in your skin directory into individual .fantome files that can be installed with cslol-manager.
 
